@@ -1,0 +1,5 @@
+image: dummy-step
+description: Do something dumb
+maintainers:
+- name: Anton Weiss
+  email: anton@otomato.link
